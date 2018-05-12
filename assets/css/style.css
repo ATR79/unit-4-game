@@ -16,6 +16,8 @@
 #col3 {
     background: lightgreen;
     padding: 75px;
+    font-weight: bolder;
+    font-size: 30px;
 }
 
 #col4 {
@@ -30,9 +32,9 @@
 }
 
 #yellow {
-   height: 100px;
-   width: 150%;
-   margin-left: 10px;
+    height: 100px;
+    width: 150%;
+    margin-left: 10px;
 }
 
 #green {
@@ -56,4 +58,7 @@
 #col6 {
     background: teal;
     padding: 75px;
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
 }
